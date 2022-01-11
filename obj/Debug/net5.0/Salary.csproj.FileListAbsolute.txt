@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.exe
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.deps.json
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.runtimeconfig.json
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.runtimeconfig.dev.json
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.dll
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\ref\Salary.dll
+C:\Users\maria\source\repos\Salary\bin\Debug\net5.0\Salary.pdb
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.AssemblyInfo.cs
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.dll
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\ref\Salary.dll
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.pdb
+C:\Users\maria\source\repos\Salary\obj\Debug\net5.0\Salary.genruntimeconfig.cache
